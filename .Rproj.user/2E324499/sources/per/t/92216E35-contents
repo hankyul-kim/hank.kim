@@ -1,0 +1,33 @@
+---
+title: "Hank Kim"
+image: "hank_kim.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hankkim90/"
+  - label: Resume
+    url: "https://www.dropbox.com/s/0huzfd02cjp67np/resume.pdf?dl=0"
+  - label: Email
+    url: "mailto:hankkim90@gmail.com"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Hank Kim is a data analyst in New York, NY. He is passionate about using data
+to solve real-world problems in public health. He is an R, Python, and SAS user.
+
+## Education
+
+**Emory University** | Atlanta, GA
+
+M.S.P.H. | May 2017
+
+**Emory University** | Atlanta, GA
+
+B.A. in Economics & Mathematics | May 2015
+
+## Experience
+
+**Flatiron Health** | Sr. Quantitative Data Analyst | January 2021 - Present
+**Evidera, PPD** | Data Analyst | June 2017 - January 2021
